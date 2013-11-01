@@ -1,0 +1,34 @@
+Strategy
+Architecture
+Enterprise Artefact
+Transformation
+Synergy
+Business Achitecture
+Enterprise Architecture
+Technology Architecture
+Information Architecture
+Governance Model
+Governance Structure
+Governance Framework
+Framework
+Architecture Framework
+Target State
+Gap Analysis
+View
+Meta Model
+Capability
+Facility
+Strategy Plan
+Operating Model
+Alignment
+Service Model
+Service Layer
+Integration Layer
+Business Integration
+Line-of-sight Traceability
+Traceability
+Cloud
+Capability Map
+Strategy Alignment
+Business Alignment
+Stakeholder Alignment

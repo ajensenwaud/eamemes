@@ -37,7 +37,7 @@ app.get('/', function(req, res) {
     wp.getRandomAdjectives(2, function(adjectives) {  
       var word = adjectives[0].word + ', ' + adjectives[1].word + ' ' + nouns[0].word;
       console.log('Word of the day is ' + word);
-      res.render('index', { title: 'EA Word Generator', word: word, a: adjectives, n: nouns }); 
+      res.render('index', { title: 'Enterprise Architecture Meme Generator', word: word, a: adjectives, n: nouns }); 
     });
   });
 });

@@ -13,8 +13,8 @@ eamemes was built using Node.js with the Express framework with NeDB. The applic
 
 Installation
 ------------
-1 Clone the repository using: git clone https://github.com/ajensenwaud/eamemes.git 
-2 Enter the new directory: cd eamemes/
-3 eamemes comes with a sample database, which is ready to go. If you want to populate your own database, delete the NeDB file eamemes.nedb and regenerate after editing the dictionary files in input/. Run the following scripts to generate a new database file: node load-adjectives.js && node load-nouns.js
-4 Run node app.js to start the application on http://localhost:3000/
+  1 Clone the repository using: git clone https://github.com/ajensenwaud/eamemes.git 
+  2 Enter the new directory: cd eamemes/
+  3 eamemes comes with a sample database, which is ready to go. If you want to populate your own database, delete the NeDB file eamemes.nedb and regenerate after editing the dictionary files in input/. Run the following scripts to generate a new database file: node load-adjectives.js && node load-nouns.js
+  4 Run node app.js to start the application on http://localhost:3000/
 
